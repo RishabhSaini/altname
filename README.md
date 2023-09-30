@@ -4,6 +4,11 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ## Activity 1
 ![Activity 1 Screenshot](./img/a1p1.png?raw=true "Activity 1 Screenshot")
 
+## Activity 2
+![Activity 2 Screenshot](./img/a2p1.png?raw=true "Activity 2 Screenshot")
+![Activity 2 Screenshot](./img/a2p2.png?raw=true "Activity 2 Screenshot")
+
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
